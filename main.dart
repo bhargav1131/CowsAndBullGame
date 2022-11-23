@@ -1,3 +1,6 @@
+// Author: Bhargav Pratim Sharma
+// Dated: 23th Nov, 2022
+
 import 'dart:math';
 import 'dart:io';
 
@@ -38,5 +41,4 @@ while(true){
 
   print("\nAttempts: $attempts \nCows gained: $cow \nBulls gained: $bull");  
   }
-
 }
